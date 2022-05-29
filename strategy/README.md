@@ -3,5 +3,5 @@ After pulling from the repository and changing to the `strategy` directory, run 
 
 ```sh
 composer install # this will create vendor directory
-php app.php # php -S localhost:9090
+php index.php # php -S localhost:9090
 ```
