@@ -1,6 +1,8 @@
 <?php
 
-require_once(__DIR__."/../Interfaces/IArithmeticInterface.php");
+namespace App\Operations;
+
+use App\Interfaces\IArithmeticInterface;
 
 class SummationOperation implements IArithmeticInterface
 {
