@@ -1,0 +1,12 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "Implementation of design patterns with JS/ TS languages",
+  "main": "index.js",
+  "repository": "https://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@github.com/abidkhan484/design_patterns.git",
+  "author": "Abid Khan <abidkhan484@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
